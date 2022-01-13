@@ -1,0 +1,15 @@
+.full {
+    width: 90vw;
+    height: 90vh;
+}
+
+.default {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.wrapper {
+    display: grid;
+    grid-row-gap: 10px;
+    justify-items: center;
+}
